@@ -34,7 +34,7 @@
 ; メッセージ部分
 
 		DB		0x0a, 0x0a		; 改行を2つ
-		DB		"hello, hariboteOS"
+		DB		"hello, I am nabeen!!"
 		DB		0x0a			; 改行
 		DB		0
 
